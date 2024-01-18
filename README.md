@@ -29,3 +29,4 @@
 ## Connect with Me
 
 - 📫 [Discord](https://discord.gg/miltev6164)
+- 📫 email: niiranenmilo@gmail.com
