@@ -11,9 +11,9 @@
 
   
 ## Hobbies
-In my free time, I enjoy playing video games 🎮, mostly first-person shooters (FPS). 
-I also engage in sports by going to the gym three times a week 🏋️‍♂️ and occasionally playing badminton 🏸. 
-Additionally, I like to spend time outdoors, going for walks to enjoy the fresh air 🚶‍♂️.
+- 🎮 In my free time, I enjoy playing video games, mostly first-person shooters (FPS). 
+- 🏋️‍♂️🏸 I also engage in sports by going to the gym three times a week and occasionally playing badminton. 
+- 🚶‍♂️ Additionally, I like to spend time outdoors, going for walks to enjoy the fresh air.
 
 
 ## Skills
