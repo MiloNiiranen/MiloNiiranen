@@ -33,6 +33,10 @@
 - 🛠️ WordPress <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" alt="WordPress" width="40" height="40"/> 
 - 🛠️ Unity  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
 
+### Language Skills
+
+- 🌐 **Language Proficiency:** Finnish and English, and limited proficiency in Swedish.
+
 ## Connect with Me
 
 - 📫 [Discord](https://discord.gg/miltev6164)
