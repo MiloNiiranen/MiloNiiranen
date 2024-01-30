@@ -9,6 +9,13 @@
 
 - 💼 **Work & Learning Experience:** I have practical experience working and learning at K-market in Mäyrämäki and with my father, who is a private entrepreneur installing windows and doors. In K-Market, I stocked shelves, checked expiration dates, and organized packages ordered by customers for them to pick up later. At my father's workplace, I carried many heavy doors and windows, and I also had the opportunity to do some disassembling. I learned a lot about the tools used in my father's workplace during that time.
 
+  
+## Hobbies
+🎮In my free time, I enjoy playing video games, mostly first-person shooters (FPS). 
+🏋️‍♂️I also engage in sports by going to the gym three times a week  and occasionally playing badminton🏸. 
+🚶‍♂️Additionally, I like to spend time outdoors, going for walks to enjoy the fresh air.
+
+
 ## Skills
 
 ### Programming Languages
