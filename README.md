@@ -7,7 +7,7 @@
 
 ## Experience
 
-- 💼 **Work & Learning Experience:** I have practical experience working and learning at K-market in Mäyrämäki and with my father, who is a private entrepreneur installing windows and doors. In K-Market, I stocked shelves, checked expiration dates, and organized packages ordered by customers for them to pick up later. At my father's workplace, I carried many heavy doors and windows, and I also had the opportunity to do some disassembling. I learned a lot about the tools used in my father's workplace during that time.
+- 💼 **Work & Learning Experience:** I completed my practical training at Mosaiikki ry, where I worked on a project to create a game designed to help newcomers to Finland learn the Finnish language and familiarize themselves with Finnish culture. I chose to focus on Finnish traditional foods for the game. Using HTML, CSS, and JavaScript, I developed a web-based game that introduces players to various Finnish dishes and their cultural significance. I have  also practical experience working and learning at K-market in Mäyrämäki. I have also been working for my father, who is a private entrepreneur installing windows and doors. In K-Market, I stocked shelves, checked expiration dates, and organized packages ordered by customers for them to pick up later. At my father's workplace, I carried many heavy doors and windows, and I also had the opportunity to do some disassembling. I learned a lot about the tools used in my father's workplace during that time.
 
   
 ## Hobbies
