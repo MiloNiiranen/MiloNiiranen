@@ -29,9 +29,6 @@
 
 - 🛠️ Git  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 - 🛠️ .NET Framework  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
-- 🛠️ jQuery <img src="https://emaillistvalidation.com/blog/content/images/2023/10/jquery.gif" alt="jQuery" width="40" height="40"/> 
-- 🛠️ WordPress <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" alt="WordPress" width="40" height="40"/> 
-- 🛠️ Unity  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
 
 ### Language Skills
 
